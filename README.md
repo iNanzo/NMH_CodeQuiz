@@ -1,8 +1,8 @@
 # 04 Web APIs: Code Quiz
 
-https://github.com/iNanzo/NMH_BCHW4
+https://github.com/iNanzo/NMH_CodeQuiz/
 
-https://inanzo.github.io/NMH_BCHW4/
+https://inanzo.github.io/NMH_CodeQuiz/
 
 ## Acceptance Criteria
 
